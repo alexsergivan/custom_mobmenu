@@ -1,0 +1,5 @@
+name = Custom Mobmenu
+description = Creates ability to add mobile menu
+core = 7.x
+version = "7.x-1.0"
+package = custom
